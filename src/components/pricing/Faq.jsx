@@ -1,3 +1,4 @@
+//eslint-disable-next-line
 import React, { useRef, useState } from "react"
 import { faq } from "../../dummydata"
 import Heading from "../common/heading/Heading"
