@@ -16,7 +16,7 @@ const Header = () => {
               <Link to='/'>Home</Link>
             </li>
             <li>
-              <Link to='/courses'>All Courses</Link>
+              <Link to='/courses'>Product</Link>
             </li>
             <li>
               <Link to='/about'>About</Link>
@@ -35,7 +35,7 @@ const Header = () => {
             </li>
           </ul>
           <div className='start'>
-            <div className='button'>GET CERTIFICATE</div>
+            <div className='button'>GET ACCESS</div>
           </div>
           <button className='toggle' onClick={() => setClick(!click)}>
             {click ? <i className='fa fa-times'> </i> : <i className='fa fa-bars'></i>}

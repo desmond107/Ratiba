@@ -1,1 +1,0 @@
-# Ratiba-school-management-system

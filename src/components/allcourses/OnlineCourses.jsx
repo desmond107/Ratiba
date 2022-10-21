@@ -8,12 +8,12 @@ const OnlineCourses = () => {
     <>
       <section className='online'>
         <div className='container'>
-          <Heading subtitle='COURSES' title='Browse Our Online Courses' />
+          <Heading subtitle='SERVICES' title='Explore what Ratiba has to offer' />
           <div className='content grid3'>
             {online.map((val) => (
               <div className='box'>
                 <div className='img'>
-                  <img src={val.cover} />
+                  <img src={val.cover} alt=''/>
                   <img src={val.hoverCover} alt='' className='show' />
                 </div>
                 <h1>{val.courseName}</h1>

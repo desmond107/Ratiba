@@ -15,6 +15,7 @@ const Home = () => {
       <Testimonal />
       <Hblog />
       <Hprice />
+      
     </>
   )
 }
