@@ -20,8 +20,8 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>RATIBA</h1>
-            <span>SCHOOL MANAGEMENT SYSTEM</span>
+            <h1>TUSTOCK</h1>
+            <span>SHOP WITH US</span>
             <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 
             <i className='fab fa-facebook-f icon'></i>
@@ -74,7 +74,7 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                Identysis.ltd Nairobi,Kenya-Westlands,Muthithi_road
+                tustock.ltd Nairobi,Kenya-Westlands,Muthithi_road
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
@@ -82,7 +82,7 @@ const Footer = () => {
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@iddentysis.com
+                info@tustock.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | <i className='fa fa-heart'></i> Identysys.ltd
+          Copyright ©2022 All rights reserved | <i className='fa fa-heart'></i> Tustock.ltd
         </p>
       </div>
     </>

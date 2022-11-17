@@ -8,7 +8,7 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-            <Heading subtitle='WELCOME TO RATIBA' title='Best school management system' />
+            <Heading subtitle='WELCOME TO TUSTOCK' title='Shop With Us' />
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
             <div className='button'>
               <button className='primary-btn'>

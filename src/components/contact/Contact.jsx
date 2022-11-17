@@ -19,7 +19,7 @@ const Contact = () => {
             <div className='items grid2'>
               <div className='box'>
                 <h4>ADDRESS:</h4>
-                <p>IDENTYSIS.LTD, NAIROBI,WESTLANDS-MUTHITHI ROAD</p>
+                <p>Tustock.LTD, NAIROBI,WESTLANDS-MUTHITHI ROAD</p>
               </div>
               <div className='box'>
                 <h4>EMAIL:</h4>

@@ -2,13 +2,13 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Facial recognition",
+    title: "Accessible",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Id generator",
+    title: "Cost effective",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
@@ -28,7 +28,7 @@ export const awrapper = [
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
     data: "320",
-    title: "TRUSTED TUTORS",
+    title: "TRUSTED ",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
@@ -63,7 +63,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "Raju channa",
+        name: "Daniel mativo",
         totalTime: "Easy to use ",
       },
     ],
@@ -77,7 +77,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by norman mburuchara",
+        name: "by John Gitonga",
         totalTime: "accessible and depensable",
       },
     ],
@@ -288,22 +288,22 @@ export const team = [
 export const price = [
   {
     name: "BRONZE",
-    price: "20K",
+    price: "",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     name: "SILVER",
-    price: "35K",
+    price: "",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     name: "GOLD",
-    price: "55k",
+    price: "",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     name: "PLATINUM",
-    price: "70K",
+    price: "",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
 ]
@@ -339,7 +339,7 @@ export const blog = [
     type: "admin",
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
-    title: "Benefits of a school management system",
+    title: "Benefits of shopping with us at tustock",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b1.webp",
   },
@@ -348,7 +348,7 @@ export const blog = [
     type: "admin",
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
-    title: "Benefits of a school management system",
+    title: "Benefits of shopping with us at tustock",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b2.webp",
   },
@@ -357,7 +357,7 @@ export const blog = [
     type: "user",
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
-    title: "Benefits of a school management system",
+    title: "Benefits of shopping with us at tustock",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b3.webp",
   },
@@ -366,7 +366,7 @@ export const blog = [
     type: "admin",
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
-    title: "Benefits of a school management system",
+    title: "Benefits of shopping with us at tustock",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b4.webp",
   },
@@ -375,7 +375,7 @@ export const blog = [
     type: "admin",
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
-    title: "Benefits of a school management systemr",
+    title: "Benefits of shopping with us at tustock",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b5.webp",
   },
@@ -384,7 +384,7 @@ export const blog = [
     type: "user",
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
-    title: "Benefits of a school management system",
+    title: "Benefits of shopping with us at tustock",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b6.webp",
   },
